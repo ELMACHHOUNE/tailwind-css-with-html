@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Tailwind-generated CSS
+output.css
+
+# Optional: any build files or directories
+dist/
+build/
+
+# Tailwind config file (optional, if you don't want to track it)
+tailwind.config.js
+
+# PostCSS config file (optional, if you don't want to track it)
+postcss.config.js
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files (optional, based on your editor)
+.vscode/
+.idea/
